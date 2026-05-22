@@ -1,9 +1,10 @@
 # 🌐 NexHub (PULSE) — Corporate Intranet Portal
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blueviolet?style=for-the-badge&logo=vercel)](nex-hub-web-4zc9.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blueviolet?style=for-the-badge&logo=vercel)](https://nex-hub-web-4zc9.vercel.app)
 
 **NexHub** (internally codenamed **PULSE**) is a state-of-the-art, fully interactive, and premium **Corporate Intranet Portal** designed to drive communication, engagement, and productivity across modern organizations. Built as a high-performance monorepo using **React 18**, **TypeScript**, **Vite**, and **Tailwind CSS**, NexHub delivers a stunning, responsive user experience complete with dark mode, fluid transitions, and real-time interactive components.
 
+live:[nex-hub-web-4zc9.vercel.app](https://nex-hub-web-4zc9.vercel.app)
 ---
 ## ✨ Features At A Glance
 
