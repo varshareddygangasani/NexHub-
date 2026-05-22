@@ -1,0 +1,78 @@
+[
+  {
+    "id": "win-1",
+    "projectName": "Enterprise Apex Cloud Integration",
+    "client": "Apex Financial Services",
+    "value": "$2.3M ARR",
+    "teamIds": ["emp-sarah", "emp-priya", "emp-meera", "emp-clara"],
+    "wonAt": "2026-05-15T09:00:00Z",
+    "description": "Successfully landed and deployed our apex enterprise infrastructure product for one of the largest financial conglomerates. Huge collaborative victory involving Sales, SRE, Product Design, and CS!",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-david" },
+      { "emoji": "🔥", "userId": "emp-samir" },
+      { "emoji": "👏", "userId": "emp-arjun" }
+    ]
+  },
+  {
+    "id": "win-2",
+    "projectName": "Global Web Portal Redesign",
+    "client": "Vortex Media Group",
+    "value": "$750K Contract",
+    "teamIds": ["emp-samir", "emp-elena", "emp-marcus"],
+    "wonAt": "2026-05-16T11:00:00Z",
+    "description": "Re-engineered the global visual identity and digital campaigns for Vortex Media, utilizing our custom design system guidelines and Tailwind HSL assets.",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-clara" },
+      { "emoji": "💡", "userId": "emp-priya" }
+    ]
+  },
+  {
+    "id": "win-3",
+    "projectName": "Predictive SRE Tooling Suite",
+    "client": "Internal Infrastructure",
+    "value": "N/A (SRE Win)",
+    "teamIds": ["emp-tariq", "emp-priya", "emp-meera"],
+    "wonAt": "2026-05-17T14:30:00Z",
+    "description": "Shipped our internal predictive logging pipeline, lowering server incident counts by 35% and drastically speeding up local Vite hot reload scaffolding.",
+    "reactions": [
+      { "emoji": "💡", "userId": "emp-david" },
+      { "emoji": "🔥", "userId": "emp-arjun" }
+    ]
+  },
+  {
+    "id": "win-4",
+    "projectName": "Nordic Retail Platform Launch",
+    "client": "Svenska Commerce",
+    "value": "$1.1M ARR",
+    "teamIds": ["emp-sarah", "emp-clara", "emp-elena"],
+    "wonAt": "2026-05-18T10:00:00Z",
+    "description": "Officially deployed Svenska Commerce platform post-onboarding. CS and Design teams coordinated to customize visual assets and reduce onboarding churn.",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-charlie" }
+    ]
+  },
+  {
+    "id": "win-5",
+    "projectName": "Automated Billing & Finance Pipeline",
+    "client": "Corporate Finance",
+    "value": "$220K/yr savings",
+    "teamIds": ["emp-charlie", "emp-yuki"],
+    "wonAt": "2026-05-19T09:00:00Z",
+    "description": "Rolled out our corporate billing automation software, simplifying tax invoicing and saving over 300+ operational hours annually.",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-meera" }
+    ]
+  },
+  {
+    "id": "win-6",
+    "projectName": "C-Suite Alignment Program",
+    "client": "Board Executive",
+    "value": "Strategic Alignment",
+    "teamIds": ["emp-david", "emp-yuki", "emp-arjun"],
+    "wonAt": "2026-05-20T11:00:00Z",
+    "description": "Concluded the global expansion alignment program, unlocking corporate budget allocations for opening the new Singapore hub in Q4 2026.",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-samir" }
+    ]
+  }
+]

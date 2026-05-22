@@ -1,0 +1,282 @@
+[
+  {
+    "id": "kud-1",
+    "fromId": "emp-priya",
+    "toId": "emp-elena",
+    "value": "collaboration",
+    "message": "A huge shoutout to Elena for designing the gorgeous and responsive layouts of the new PULSE shell. Working with your Figma files is a dream, and your attention to design tokens and micro-interactions really elevates our user experience!",
+    "visibility": "public",
+    "createdAt": "2026-05-19T14:20:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-arjun" },
+      { "emoji": "❤️", "userId": "emp-david" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-2",
+    "fromId": "emp-elena",
+    "toId": "emp-priya",
+    "value": "innovation",
+    "message": "Arigato Priya for implementing the Framer Motion components so flawlessly! You took my complex motion design and translated it perfectly into highly performant React code. You are an absolute magician!",
+    "visibility": "public",
+    "createdAt": "2026-05-19T15:30:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-tariq" },
+      { "emoji": "💡", "userId": "emp-marcus" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-3",
+    "fromId": "emp-david",
+    "toId": "emp-sarah",
+    "value": "leadership",
+    "message": "A huge congratulations to Sarah for leading the enterprise sales outreach campaign this month. Your grit and focus closed the largest contract in our company history. Standard-setting leadership!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T09:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-samir" },
+      { "emoji": "👏", "userId": "emp-clara" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-4",
+    "fromId": "emp-clara",
+    "toId": "emp-tariq",
+    "value": "customer-focus",
+    "message": "Shoutout to Tariq for jumping on a late SRE support bridge yesterday to help debug a live platform incident for our enterprise client. You stayed patient, resolved the docker bottleneck, and kept our clients happy!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T10:15:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-meera" },
+      { "emoji": "👀", "userId": "emp-priya" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-5",
+    "fromId": "emp-meera",
+    "toId": "emp-arjun",
+    "value": "excellence",
+    "message": "Thank you Arjun for arranging the Wellness Week program and taking the lead on the morning virtual sessions. It is so important to check in on our teams, and your energy makes a huge difference in breaking down company-wide silos.",
+    "visibility": "public",
+    "createdAt": "2026-05-20T11:45:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-yuki" },
+      { "emoji": "👏", "userId": "emp-samir" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-6",
+    "fromId": "emp-marcus",
+    "toId": "emp-clara",
+    "value": "growth",
+    "message": "Kudos to Clara for coordinating the feedback loops between Customer Success and Product Design. The retention statistics you provided helped us pivot our design focus, demonstrating an exemplary growth mindset!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T13:30:00Z",
+    "reactions": [
+      { "emoji": "💡", "userId": "emp-elena" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-7",
+    "fromId": "emp-samir",
+    "toId": "emp-yuki",
+    "value": "ownership",
+    "message": "A massive shoutout to Yuki for managing the calendars and board preparations so seamlessly this week. You demonstrated complete ownership and made the entire quarterly review execution feel simple and stress-free.",
+    "visibility": "public",
+    "createdAt": "2026-05-20T15:00:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-david" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-8",
+    "fromId": "emp-tariq",
+    "toId": "emp-charlie",
+    "value": "collaboration",
+    "message": "Thanks Charlie for helping our engineering department resolve the SaaS subscriptions and billing structure so quickly. Your prompt budget allocations kept our systems running smoothly without any delays!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T16:15:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-meera" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-9",
+    "fromId": "emp-priya",
+    "toId": "emp-raj",
+    "value": "excellence",
+    "message": "Raj built the new gRPC contract for the events pipeline in just two days and the throughput numbers are off the charts. The thoroughness of his integration tests saved us a week of bug bashing.",
+    "visibility": "public",
+    "createdAt": "2026-05-20T17:40:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-james" },
+      { "emoji": "👏", "userId": "emp-meera" },
+      { "emoji": "💡", "userId": "emp-tariq" }
+    ],
+    "replies": [
+      {
+        "id": "rep-k9-1",
+        "authorId": "emp-raj",
+        "body": "Thanks Priya! Couldn't have done it without your frontend mocks — they made the contract testing painless.",
+        "createdAt": "2026-05-20T17:55:00Z",
+        "reactions": []
+      }
+    ]
+  },
+  {
+    "id": "kud-10",
+    "fromId": "emp-marcus",
+    "toId": "emp-sofia",
+    "value": "ownership",
+    "message": "Sofia owned the analytics product launch end-to-end this quarter — from discovery interviews to GA — and beat the original timeline by three weeks. Textbook PM execution.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T08:30:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-isabella" },
+      { "emoji": "👏", "userId": "emp-david" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-11",
+    "fromId": "emp-clara",
+    "toId": "emp-nina",
+    "value": "customer-focus",
+    "message": "Nina turned around the Berlin onboarding sequence in record time and our T2V dropped from 14 days to 5. Customers are noticing — every QBR this week opened with praise for her playbook.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T09:15:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-arjun" },
+      { "emoji": "🔥", "userId": "emp-sarah" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-12",
+    "fromId": "emp-sarah",
+    "toId": "emp-diego",
+    "value": "leadership",
+    "message": "Diego closed the largest EMEA contract of the year and mentored two AEs through the process. Textbook coaching — half the deal felt like a team win because he made it one.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T10:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-david" },
+      { "emoji": "👏", "userId": "emp-samir" },
+      { "emoji": "🔥", "userId": "emp-clara" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-13",
+    "fromId": "emp-arjun",
+    "toId": "emp-aisha",
+    "value": "growth",
+    "message": "Aisha redesigned our MEA hiring loop and the candidate experience scores jumped from 3.8 to 4.7 in a single quarter. Her DEI rubric is now our company-wide standard.",
+    "visibility": "team",
+    "createdAt": "2026-05-21T11:20:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-yuki" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-14",
+    "fromId": "emp-elena",
+    "toId": "emp-maya",
+    "value": "team-player",
+    "message": "Maya jumped in and re-built the accessibility spec for the new dashboard component library — caught seven WCAG issues I had missed and shipped fixes the same day.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T12:10:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-priya" },
+      { "emoji": "👏", "userId": "emp-marcus" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-15",
+    "fromId": "emp-meera",
+    "toId": "emp-james",
+    "value": "excellence",
+    "message": "James automated our entire staging rollback flow this week. What used to take 40 minutes of manual checklists now happens in 90 seconds with one Argo CD click. Beautiful work.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T13:45:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-tariq" },
+      { "emoji": "💡", "userId": "emp-priya" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-16",
+    "fromId": "emp-charlie",
+    "toId": "emp-liam",
+    "value": "ownership",
+    "message": "Liam rebuilt our 13-week cash forecast from scratch and the scenario modeling caught a payroll FX risk that would have cost us six figures. Truly exceptional work.",
+    "visibility": "team",
+    "createdAt": "2026-05-21T14:30:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-david" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-17",
+    "fromId": "emp-samir",
+    "toId": "emp-olivia",
+    "value": "innovation",
+    "message": "Olivia's launch campaign for the brand refresh pulled 3x our target engagement on LinkedIn. The narrative she crafted hit exactly the right tone for our enterprise audience.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T15:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-sarah" },
+      { "emoji": "❤️", "userId": "emp-clara" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-18",
+    "fromId": "emp-sofia",
+    "toId": "emp-isabella",
+    "value": "growth",
+    "message": "Isabella's dashboards have become our weekly product review centerpiece. The dbt models she rebuilt cut our reporting latency from 90 minutes to under 4. Massive unlock.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T16:20:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-marcus" },
+      { "emoji": "👏", "userId": "emp-noah" }
+    ],
+    "replies": []
+  },
+  {
+    "id": "kud-19",
+    "fromId": "emp-james",
+    "toId": "emp-noah",
+    "value": "growth",
+    "message": "Noah landed three production PRs in their first month and one of them shipped a keyboard navigation fix that customers had been asking about for over a year. Incredible start.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T17:10:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-priya" },
+      { "emoji": "👏", "userId": "emp-elena" },
+      { "emoji": "🎉", "userId": "emp-meera" }
+    ],
+    "replies": [
+      {
+        "id": "rep-k19-1",
+        "authorId": "emp-noah",
+        "body": "Thank you — and thanks to everyone who reviewed the PRs so patiently!",
+        "createdAt": "2026-05-21T17:25:00Z",
+        "reactions": []
+      }
+    ]
+  }
+]

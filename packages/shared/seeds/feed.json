@@ -1,0 +1,318 @@
+[
+  {
+    "id": "feed-1",
+    "type": "standard",
+    "authorId": "emp-priya",
+    "body": "Just finished setting up our monorepo workspaces structure. Having shared/types, shared/tokens, and shared/hooks compiling on the fly in apps/web is incredibly smooth! Highly recommend adopting this setup for any multi-app React frameworks.",
+    "images": ["https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=600&q=80"],
+    "visibility": "public",
+    "createdAt": "2026-05-18T10:00:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-tariq" },
+      { "emoji": "💡", "userId": "emp-meera" },
+      { "emoji": "❤️", "userId": "emp-elena" }
+    ],
+    "comments": [
+      {
+        "id": "c-1",
+        "authorId": "emp-elena",
+        "body": "It makes UI development so fast! Designing tokens once in CSS HSL variables and sharing them across apps is the dream.",
+        "createdAt": "2026-05-18T10:15:00Z",
+        "reactions": [{ "emoji": "❤️", "userId": "emp-priya" }]
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-2",
+    "type": "experience",
+    "authorId": "emp-arjun",
+    "body": "Shared a wonderful morning conducting the virtual wellness and yoga session with 20+ folks dialing in! Great to see our London, Mumbai, and Bengaluru offices syncing up before start of work.",
+    "images": ["https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&q=80"],
+    "visibility": "public",
+    "createdAt": "2026-05-18T12:00:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-yuki" },
+      { "emoji": "👏", "userId": "emp-clara" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-3",
+    "type": "celebration",
+    "authorId": "emp-yuki",
+    "body": "Celebrating a massive work anniversary for David Chen! 5 years of leading this company with unparalleled vision, strategy, and empathy. Thank you for guiding our growth and breaking down silos!",
+    "taggedUserIds": ["emp-david"],
+    "visibility": "public",
+    "createdAt": "2026-05-19T09:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-sarah" },
+      { "emoji": "❤️", "userId": "emp-samir" },
+      { "emoji": "👏", "userId": "emp-meera" }
+    ],
+    "comments": [
+      {
+        "id": "c-2",
+        "authorId": "emp-david",
+        "body": "Thank you Yuki! It has been an honor to build alongside such a talented group of people.",
+        "createdAt": "2026-05-19T09:30:00Z",
+        "reactions": [{ "emoji": "❤️", "userId": "emp-yuki" }]
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-4",
+    "type": "achievement",
+    "authorId": "emp-sarah",
+    "body": "Shoutout to the global outreach taskforce! We officially closed Svenska Commerce ARR platform launch today. The product reviews were stellar.",
+    "taggedUserIds": ["emp-elena", "emp-clara"],
+    "visibility": "public",
+    "createdAt": "2026-05-19T11:00:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-david" },
+      { "emoji": "🔥", "userId": "emp-marcus" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-5",
+    "type": "standard",
+    "authorId": "emp-elena",
+    "body": "Just uploaded the official corporate typography and branding guidelines inside the Knowledge Hub category Employee Handbook! Let me know if you have questions on font weights or dark mode contrast ratios.",
+    "visibility": "public",
+    "createdAt": "2026-05-19T15:00:00Z",
+    "reactions": [
+      { "emoji": "💡", "userId": "emp-marcus" },
+      { "emoji": "👏", "userId": "emp-samir" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-6",
+    "type": "standard",
+    "authorId": "emp-tariq",
+    "body": "Successfully deployed docker optimization templates in AWS environments. Local Vite cold starts are now under 450ms. Let's build faster!",
+    "visibility": "department:dept-eng",
+    "createdAt": "2026-05-20T10:00:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-priya" },
+      { "emoji": "👏", "userId": "emp-meera" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-7",
+    "type": "standard",
+    "authorId": "emp-clara",
+    "body": "Had a fantastic sync with Samir regarding enterprise digital PR. CS data is showing a 22% increase in customer NPS after our latest UI releases!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T11:30:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-samir" },
+      { "emoji": "❤️", "userId": "emp-david" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-8",
+    "type": "standard",
+    "authorId": "emp-charlie",
+    "body": "Tax filing, corporate audits, and global billing integrations are fully completed. Big thanks to the executive support teams who simplified document retrievals.",
+    "visibility": "public",
+    "createdAt": "2026-05-20T13:00:00Z",
+    "reactions": [
+      { "emoji": "👏", "userId": "emp-yuki" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-9",
+    "type": "standard",
+    "authorId": "emp-samir",
+    "body": "Setting up photoshoot assets for our next townhall and cultural celebrations. If you want to tag your teams or share video collages, send them my way!",
+    "visibility": "public",
+    "createdAt": "2026-05-20T14:45:00Z",
+    "reactions": [
+      { "emoji": "👀", "userId": "emp-arjun" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-10",
+    "type": "standard",
+    "authorId": "emp-marcus",
+    "body": "Product backlog grooming is completed. Q3 planning templates are officially open under department initiatives. Let's make our user flows highly premium!",
+    "visibility": "department:dept-product",
+    "createdAt": "2026-05-20T16:00:00Z",
+    "reactions": [
+      { "emoji": "💡", "userId": "emp-elena" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-11",
+    "type": "celebration",
+    "authorId": "emp-arjun",
+    "body": "Huge welcome to our latest cohort joining PULSE this month: Raj, Maya, James, Nina, Diego, Aisha, Sofia, Liam, Noah, Olivia, and Isabella. Eleven new teammates across seven offices. Say hi when you see them on Slack or in the directory!",
+    "taggedUserIds": ["emp-raj", "emp-maya", "emp-james", "emp-nina", "emp-diego", "emp-aisha"],
+    "visibility": "public",
+    "createdAt": "2026-05-21T08:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-david" },
+      { "emoji": "❤️", "userId": "emp-priya" },
+      { "emoji": "👏", "userId": "emp-meera" },
+      { "emoji": "👏", "userId": "emp-sarah" }
+    ],
+    "comments": [
+      {
+        "id": "c-11-1",
+        "authorId": "emp-noah",
+        "body": "So happy to be here! Already feeling the welcoming vibe.",
+        "createdAt": "2026-05-21T08:30:00Z",
+        "reactions": [{ "emoji": "❤️", "userId": "emp-arjun" }]
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-12",
+    "type": "achievement",
+    "authorId": "emp-james",
+    "body": "Shipped the self-serve Argo CD rollback flow today. Forty minutes of checklist work → one click. Docs are in the Eng knowledge hub. Massive thanks to Tariq for the pairing sessions last week.",
+    "taggedUserIds": ["emp-tariq"],
+    "visibility": "public",
+    "createdAt": "2026-05-21T11:15:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-meera" },
+      { "emoji": "👏", "userId": "emp-priya" },
+      { "emoji": "💡", "userId": "emp-raj" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-13",
+    "type": "experience",
+    "authorId": "emp-diego",
+    "body": "Closed our biggest EMEA deal of the year this morning. Champagne is open in the Madrid office — drop by if you're in town! Couldn't have done it without Sarah's last-minute MSA tweaks and Clara's incredible reference calls.",
+    "taggedUserIds": ["emp-sarah", "emp-clara"],
+    "visibility": "public",
+    "createdAt": "2026-05-21T12:00:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-david" },
+      { "emoji": "🔥", "userId": "emp-samir" },
+      { "emoji": "❤️", "userId": "emp-meera" }
+    ],
+    "comments": [
+      {
+        "id": "c-13-1",
+        "authorId": "emp-david",
+        "body": "Congratulations Diego! That's a year-defining win. ¡Felicidades!",
+        "createdAt": "2026-05-21T12:10:00Z",
+        "reactions": []
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-14",
+    "type": "standard",
+    "authorId": "emp-isabella",
+    "body": "Rebuilt our weekly product review dashboard in Looker — reporting latency went from 90 minutes to under 4. If your team wants a custom view, ping me in #data-help and I'll spin one up.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T13:20:00Z",
+    "reactions": [
+      { "emoji": "💡", "userId": "emp-marcus" },
+      { "emoji": "🔥", "userId": "emp-sofia" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-15",
+    "type": "experience",
+    "authorId": "emp-maya",
+    "body": "Spent the morning auditing our dashboard component library for WCAG 2.2 AA compliance. Found seven issues, shipped four fixes already. If anyone wants to pair on accessibility for their feature work, I have time blocked every Wednesday afternoon.",
+    "visibility": "public",
+    "createdAt": "2026-05-21T14:00:00Z",
+    "reactions": [
+      { "emoji": "❤️", "userId": "emp-elena" },
+      { "emoji": "👏", "userId": "emp-noah" },
+      { "emoji": "💡", "userId": "emp-priya" }
+    ],
+    "comments": [
+      {
+        "id": "c-15-1",
+        "authorId": "emp-elena",
+        "body": "This is the kind of energy we needed. Booking time on Wednesday!",
+        "createdAt": "2026-05-21T14:15:00Z",
+        "reactions": []
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-16",
+    "type": "standard",
+    "authorId": "emp-nina",
+    "body": "New onboarding sequence for our DACH customers is live. Early signal: time-to-value dropped from 14 days to 5. Will share the full retro in next week's CS sync.",
+    "visibility": "department:dept-cs",
+    "createdAt": "2026-05-21T15:30:00Z",
+    "reactions": [
+      { "emoji": "🔥", "userId": "emp-clara" },
+      { "emoji": "👏", "userId": "emp-marcus" }
+    ],
+    "comments": [],
+    "status": "published",
+    "reportCount": 0
+  },
+  {
+    "id": "feed-17",
+    "type": "standard",
+    "authorId": "emp-noah",
+    "body": "First production PR merged today 🎉 Tiny one — a focus-ring fix in the directory dropdown — but a customer had reported it last year and I'm glad it's finally gone. Onwards!",
+    "visibility": "public",
+    "createdAt": "2026-05-21T16:45:00Z",
+    "reactions": [
+      { "emoji": "🎉", "userId": "emp-priya" },
+      { "emoji": "❤️", "userId": "emp-james" },
+      { "emoji": "👏", "userId": "emp-meera" },
+      { "emoji": "🔥", "userId": "emp-elena" }
+    ],
+    "comments": [
+      {
+        "id": "c-17-1",
+        "authorId": "emp-priya",
+        "body": "Huge milestone, congrats Noah! First of many.",
+        "createdAt": "2026-05-21T16:50:00Z",
+        "reactions": []
+      }
+    ],
+    "status": "published",
+    "reportCount": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lead-1",
+    "authorId": "emp-david",
+    "title": "Scaling Beyond Boundaries: Our 2026 Strategic Vision",
+    "body": "Team, as we navigate through Q2 2026, I want to take a moment to reflect on our journey. We started with a clear purpose: to build technology that feels premium, robust, and customer-first. Today, we are crossing major arr thresholds, but more importantly, we are building a cultural heartbeat in our offices. Let's continue to break down functional silos, champion peer achievements, and stay aligned on our core value of excellence. Thank you for your incredible effort!",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=800&q=80",
+    "publishedAt": "2026-05-18T09:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "lead-2",
+    "authorId": "emp-meera",
+    "title": "Migrating to a Scalable Monorepo Ecosystem",
+    "body": "Engineering and Product Design teams have done outstanding work transition our platforms. By adopting a strict monorepo workspaces model (Vite + React 18 + TS), we are drastically lowering local build-times and improving visual consistency with shared HSL tokens. SRE is working 24/7 to provide seamless migration paths and maintain peak system health.",
+    "videoUrl": "",
+    "thumbnail": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+    "publishedAt": "2026-05-19T14:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "lead-3",
+    "authorId": "emp-arjun",
+    "title": "Why Cultural Visibility Matters",
+    "body": "True cultural engagement isn't about HR transactions, forms, or rules. It is about celebrating our people, highlighting milestones, and giving everyone an active voice. With the rollout of PULSE, we are introducing a peer kudos platform where every act of collaboration and ownership is visible to the entire company. I encourage everyone to share the wins and support each other's growth!",
+    "videoUrl": "",
+    "thumbnail": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+    "publishedAt": "2026-05-20T09:30:00Z",
+    "pinned": false
+  }
+]

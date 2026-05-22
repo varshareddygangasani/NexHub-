@@ -1,0 +1,14 @@
+{
+  "name": "pulse-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "web:dev": "npm run dev --workspace=apps/web",
+    "web:build": "npm run build --workspace=apps/web",
+    "mobile:dev": "npm run start --workspace=apps/mobile"
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mod-1",
+    "type": "post",
+    "authorId": "emp-tariq",
+    "body": "Hey everyone, SRE is tracking down a rogue container that keeps memory-capping our local dev environments. If anyone has local logs showing Vite HMR crash times, please DM me! Trying to audit this off-topic issue before Q3.",
+    "createdAt": "2026-05-20T16:45:00Z",
+    "status": "pending",
+    "reason": "Technical log request - verify department restriction"
+  },
+  {
+    "id": "mod-2",
+    "type": "comment",
+    "authorId": "emp-priya",
+    "body": "I think the server issue is due to a bad config mapping we pushed yesterday. SRE should check container logs ASAP.",
+    "createdAt": "2026-05-20T16:50:00Z",
+    "status": "pending",
+    "reason": "Off-topic debug comment on leadership update"
+  },
+  {
+    "id": "mod-3",
+    "type": "post",
+    "authorId": "emp-samir",
+    "body": "Diwali preparations are 90% active! Here is a sneak peek at the catering list. We have 5 live street food stations! Confirm your dietary preferences in the settings page.",
+    "createdAt": "2026-05-20T17:00:00Z",
+    "status": "pending",
+    "reason": "Awaiting final layout approval from HR lead"
+  }
+]

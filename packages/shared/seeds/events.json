@@ -1,0 +1,99 @@
+[
+  {
+    "id": "evt-1",
+    "title": "Townhall Q2 2026: Strategy, Milestones & ARR Update",
+    "description": "Join David Chen and the executive leadership team for our quarterly townhall. We will review Q1 growth, discuss enterprise sales pipelines, share our vision for opening the Singapore office, and conduct an open Q&A session.",
+    "type": "townhall",
+    "startAt": "2026-05-22T15:00:00Z",
+    "endAt": "2026-05-22T16:30:00Z",
+    "location": "Virtual / Bengaluru Main Boardroom",
+    "isOnline": true,
+    "coverImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "organizerId": "emp-david",
+    "speakerIds": ["emp-david", "emp-meera", "emp-sarah"],
+    "rsvps": [
+      { "userId": "emp-priya", "status": "going" },
+      { "userId": "emp-arjun", "status": "going" },
+      { "userId": "emp-meera", "status": "going" },
+      { "userId": "emp-elena", "status": "maybe" },
+      { "userId": "emp-tariq", "status": "going" }
+    ],
+    "agenda": [
+      { "time": "15:00", "title": "Opening Vision & Silo Breakdown" },
+      { "time": "15:20", "title": "Financial Audits & Q1 ARR Metrics" },
+      { "time": "15:45", "title": "Infrastructure SRE & System Health Updates" },
+      { "time": "16:00", "title": "Open Q&A Panel & Kudos Awards" }
+    ],
+    "comments": []
+  },
+  {
+    "id": "evt-2",
+    "title": "Wellness Workshop: Mindfulness & Breathing Exercises",
+    "description": "Take 45 minutes out of your busy schedule to focus on mindfulness, mental clarity, and breathing. Led by Arjun Rao, Chief People Officer and certified yoga instructor.",
+    "type": "wellness",
+    "startAt": "2026-05-24T09:30:00Z",
+    "endAt": "2026-05-24T10:15:00Z",
+    "location": "Virtual / Yoga Hub (Mumbai)",
+    "isOnline": true,
+    "coverImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+    "organizerId": "emp-arjun",
+    "speakerIds": ["emp-arjun"],
+    "rsvps": [
+      { "userId": "emp-yuki", "status": "going" },
+      { "userId": "emp-samir", "status": "going" },
+      { "userId": "emp-priya", "status": "maybe" }
+    ],
+    "agenda": [
+      { "time": "09:30", "title": "Introduction to Mindfulness" },
+      { "time": "09:40", "title": "Pranayama & Breathing Techniques" },
+      { "time": "10:00", "title": "Virtual Silent Meditation" }
+    ],
+    "comments": []
+  },
+  {
+    "id": "evt-3",
+    "title": "Frontend SDE Sync: Vite, Tailwind & Framer Motion Tricks",
+    "description": "A focused engineering and design workshop showcasing our premium UI structures. Elena will demonstrate clean layout principles, and Priya will walk through performance optimization when configuring custom Framer Motion timelines.",
+    "type": "learning",
+    "startAt": "2026-05-25T14:00:00Z",
+    "endAt": "2026-05-25T15:30:00Z",
+    "location": "Bengaluru SDE Lab / Virtual",
+    "isOnline": true,
+    "coverImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
+    "organizerId": "emp-priya",
+    "speakerIds": ["emp-priya", "emp-elena"],
+    "rsvps": [
+      { "userId": "emp-tariq", "status": "going" },
+      { "userId": "emp-marcus", "status": "going" },
+      { "userId": "emp-elena", "status": "going" }
+    ],
+    "agenda": [
+      { "time": "14:00", "title": "Vite HMR Optimization Tips" },
+      { "time": "14:30", "title": "Styling Custom Primitives with Tailwind HSL variables" },
+      { "time": "15:00", "title": "Micro-interactions & Spring Configuration in Framer Motion" }
+    ],
+    "comments": []
+  },
+  {
+    "id": "evt-4",
+    "title": "Office Diwali & Pre-Summer Festival Celebration",
+    "description": "Time to connect, play, and celebrate together! All hubs will host regional catering, live street food stations, trivia contests, and collaborative musical jams. Dress code: Traditional / Festive.",
+    "type": "celebration",
+    "startAt": "2026-05-28T16:00:00Z",
+    "endAt": "2026-05-28T20:00:00Z",
+    "location": "All Office Hubs (Local Common Areas)",
+    "isOnline": false,
+    "coverImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+    "organizerId": "emp-arjun",
+    "speakerIds": [],
+    "rsvps": [
+      { "userId": "emp-priya", "status": "going" },
+      { "userId": "emp-meera", "status": "going" },
+      { "userId": "emp-samir", "status": "going" },
+      { "userId": "emp-clara", "status": "going" },
+      { "userId": "emp-sarah", "status": "going" }
+    ],
+    "agenda": [],
+    "comments": []
+  }
+]

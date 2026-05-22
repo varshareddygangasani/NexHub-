@@ -1,0 +1,141 @@
+[
+  {
+    "id": "thm-1",
+    "title": "How do I request an upgrade for local SDE dev machines?",
+    "body": "Hi team, my current local React hot starts are starting to lag when running concurrent workspaces. What is the standard IT pipeline to request an M3 upgrade? Is there a budget template I need to fill, or is it direct approval from my SRE manager?",
+    "authorId": "emp-priya",
+    "category": "IT Support",
+    "tags": ["Hardware", "SDE", "IT"],
+    "createdAt": "2026-05-18T11:00:00Z",
+    "upvotes": 8,
+    "downvotes": 0,
+    "viewCount": 65,
+    "answers": [
+      {
+        "id": "ans-1",
+        "topicId": "thm-1",
+        "authorId": "emp-meera",
+        "body": "Hey Priya! You can head over to the IT Policies folder in the Knowledge Hub and look up **Hardware Procurement & Upgrades (doc-7)**. You just need to fill out the hardware request form linked in that document, and SRE will approve it if you've completed your 1-year tenure.",
+        "upvotes": 12,
+        "downvotes": 0,
+        "createdAt": "2026-05-18T12:30:00Z"
+      },
+      {
+        "id": "ans-2",
+        "topicId": "thm-1",
+        "authorId": "emp-tariq",
+        "body": "Double-check that you've updated Docker and cleaned build caches as well! Sometimes container logs can severely lag local hot reloads.",
+        "upvotes": 4,
+        "downvotes": 0,
+        "createdAt": "2026-05-18T13:00:00Z"
+      }
+    ],
+    "bestAnswerId": "ans-1"
+  },
+  {
+    "id": "thm-2",
+    "title": "Where can I view the details on global health insurance benefits?",
+    "body": "Does anyone have the link to our 2026 global health benefits provider? I am trying to figure out if dental cleaning is fully covered under the corporate standard option or if it requires additional co-pay.",
+    "authorId": "emp-elena",
+    "category": "HR Support",
+    "tags": ["Benefits", "Health", "HR"],
+    "createdAt": "2026-05-19T09:30:00Z",
+    "upvotes": 5,
+    "downvotes": 0,
+    "viewCount": 42,
+    "answers": [
+      {
+        "id": "ans-3",
+        "topicId": "thm-2",
+        "authorId": "emp-arjun",
+        "body": "Hi Elena! Yes, dental cleaning is 100% covered with zero co-pay under our global standard plan. You can view the comprehensive policy document **Global health benefits (doc-13)** in the Benefits section of the Knowledge Hub, which has direct portal links.",
+        "upvotes": 9,
+        "downvotes": 0,
+        "createdAt": "2026-05-19T10:15:00Z"
+      }
+    ],
+    "bestAnswerId": "ans-3"
+  },
+  {
+    "id": "thm-3",
+    "title": "Adopting Tailwind CSS v3: Best practices for HSL class names",
+    "body": "With our migration to Vite and React 18, we are adopting Tailwind v3 HSL variables. What is the most performant way to write custom responsive grids that draw from these branding colors without breaking contrast ratios?",
+    "authorId": "emp-priya",
+    "category": "Tech Discussions",
+    "tags": ["Tailwind", "CSS", "Frontend"],
+    "createdAt": "2026-05-19T14:00:00Z",
+    "upvotes": 6,
+    "downvotes": 0,
+    "viewCount": 38,
+    "answers": [
+      {
+        "id": "ans-4",
+        "topicId": "thm-3",
+        "authorId": "emp-elena",
+        "body": "I recommend always using Tailwind’s HSL transparency modifiers (e.g., `bg-primary/10` or `text-brand-600`). This keeps classes clean and guarantees proper HSL contrast on dark mode transitions.",
+        "upvotes": 7,
+        "downvotes": 0,
+        "createdAt": "2026-05-19T14:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "thm-4",
+    "title": "Corporate OKR alignment across sales and customer success",
+    "body": "Is there a unified SOP that details how closed enterprise sales ARR opportunities are transitioned to CS onboarding? I want to ensure we reduce onboarding bottlenecks in Q3.",
+    "authorId": "emp-clara",
+    "category": "Ideas",
+    "tags": ["OKR", "CS", "Sales"],
+    "createdAt": "2026-05-20T10:00:00Z",
+    "upvotes": 4,
+    "downvotes": 0,
+    "viewCount": 28,
+    "answers": [
+      {
+        "id": "ans-5",
+        "topicId": "thm-4",
+        "authorId": "emp-sarah",
+        "body": "Yes, we just rolled out **Sales Pipeline & CRM Playbook (doc-10)** in the SOPs folder. It maps the automated alerts that fire in our system as soon as a contract is marked active.",
+        "upvotes": 5,
+        "downvotes": 0,
+        "createdAt": "2026-05-20T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "thm-5",
+    "title": "Daily Step Challenge: Who is leading the wellness leaderboards?",
+    "body": "With Wellness Week launching next Monday, who is gearing up for the step challenge? I heard Arjun has already logged 15,000 steps today in practice! Let's get moving!",
+    "authorId": "emp-samir",
+    "category": "Hobbies",
+    "tags": ["Wellness", "Step Challenge", "Fun"],
+    "createdAt": "2026-05-20T12:00:00Z",
+    "upvotes": 7,
+    "downvotes": 0,
+    "viewCount": 35,
+    "answers": []
+  },
+  {
+    "id": "thm-6",
+    "title": "Recommended reading list for engineering leadership coaching",
+    "body": "I'm looking for book recommendations or podcasts regarding scaling engineering teams, breaking down corporate silos, and championing diverse teams. Any favorites?",
+    "authorId": "emp-tariq",
+    "category": "General Q&A",
+    "tags": ["Coaching", "Leadership", "SDE"],
+    "createdAt": "2026-05-20T15:30:00Z",
+    "upvotes": 3,
+    "downvotes": 0,
+    "viewCount": 18,
+    "answers": [
+      {
+        "id": "ans-6",
+        "topicId": "thm-6",
+        "authorId": "emp-david",
+        "body": "I highly recommend reading 'Turn the Ship Around!' by L. David Marquet. It demonstrates how to foster ownership and build a leader-leader culture, which directly maps to our corporate intranet promise.",
+        "upvotes": 6,
+        "downvotes": 0,
+        "createdAt": "2026-05-20T16:00:00Z"
+      }
+    ]
+  }
+]

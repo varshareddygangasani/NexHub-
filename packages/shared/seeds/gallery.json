@@ -1,0 +1,89 @@
+[
+  {
+    "id": "alb-1",
+    "title": "Diwali Office Celebration 2025",
+    "event": "Diwali Celebrations",
+    "date": "2025-11-12",
+    "cover": "https://images.unsplash.com/photo-1605647540924-852290f6b0d5?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605647540924-852290f6b0d5?auto=format&fit=crop&w=800&q=80",
+        "caption": "Mumbai team lights corporate diyas in common area.",
+        "taggedUserIds": ["emp-arjun", "emp-samir"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+        "caption": "Beautiful traditional rangoli designed by Elena.",
+        "taggedUserIds": ["emp-elena"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
+        "caption": "Sales & Marketing teams synchronous traditional photo.",
+        "taggedUserIds": ["emp-sarah", "emp-samir"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+        "caption": "Virtual rangoli and greeting exchanges across hubs.",
+        "taggedUserIds": ["emp-yuki"]
+      }
+    ]
+  },
+  {
+    "id": "alb-2",
+    "title": "Pulse Hackathon 2026",
+    "event": "Hackathon 2026",
+    "date": "2026-03-20",
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+        "caption": "Priya and engineering team architecting the monorepo.",
+        "taggedUserIds": ["emp-priya", "emp-tariq"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80",
+        "caption": "Marcus Vance aligning roadmap OKRs during brainstorm.",
+        "taggedUserIds": ["emp-marcus"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
+        "caption": "Product Design group refining light/dark theme contrast.",
+        "taggedUserIds": ["emp-elena"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+        "caption": "Pitching the final prototype to executive board members.",
+        "taggedUserIds": ["emp-david", "emp-meera"]
+      }
+    ]
+  },
+  {
+    "id": "alb-3",
+    "title": "Townhall & Q1 ARR Celebration",
+    "event": "Townhall Q1",
+    "date": "2026-04-15",
+    "cover": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=800&q=80",
+        "caption": "David Chen sharing the Q1 growth statistics.",
+        "taggedUserIds": ["emp-david"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=80",
+        "caption": "Audience and regional directors during SRE metrics.",
+        "taggedUserIds": ["emp-meera", "emp-arjun"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+        "caption": "Celebrating the $2.3M Apex Financial Contract win!",
+        "taggedUserIds": ["emp-sarah", "emp-clara"]
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+        "caption": "Executive catering and champagne toast in London Office.",
+        "taggedUserIds": ["emp-charlie"]
+      }
+    ]
+  }
+]
